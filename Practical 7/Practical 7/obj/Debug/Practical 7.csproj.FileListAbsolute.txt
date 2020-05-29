@@ -1,0 +1,5 @@
+D:\DotNetFinal\Practical 7\Practical 7\bin\Debug\Practical 7.exe.config
+D:\DotNetFinal\Practical 7\Practical 7\bin\Debug\Practical 7.exe
+D:\DotNetFinal\Practical 7\Practical 7\bin\Debug\Practical 7.pdb
+D:\DotNetFinal\Practical 7\Practical 7\obj\Debug\Practical 7.exe
+D:\DotNetFinal\Practical 7\Practical 7\obj\Debug\Practical 7.pdb
