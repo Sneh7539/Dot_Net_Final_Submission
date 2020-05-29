@@ -1,0 +1,5 @@
+D:\DotNetFinal\Practical 6\Practical 6\bin\Debug\Practical 6.exe.config
+D:\DotNetFinal\Practical 6\Practical 6\bin\Debug\Practical 6.exe
+D:\DotNetFinal\Practical 6\Practical 6\bin\Debug\Practical 6.pdb
+D:\DotNetFinal\Practical 6\Practical 6\obj\Debug\Practical 6.exe
+D:\DotNetFinal\Practical 6\Practical 6\obj\Debug\Practical 6.pdb
