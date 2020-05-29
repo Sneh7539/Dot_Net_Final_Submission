@@ -1,6 +1,0 @@
-D:\DotNetFinal\Practical 34\Practical 34\bin\Debug\Practical 34.exe.config
-D:\DotNetFinal\Practical 34\Practical 34\bin\Debug\Practical 34.exe
-D:\DotNetFinal\Practical 34\Practical 34\bin\Debug\Practical 34.pdb
-D:\DotNetFinal\Practical 34\Practical 34\obj\Debug\Practical 34.csprojAssemblyReference.cache
-D:\DotNetFinal\Practical 34\Practical 34\obj\Debug\Practical 34.exe
-D:\DotNetFinal\Practical 34\Practical 34\obj\Debug\Practical 34.pdb
