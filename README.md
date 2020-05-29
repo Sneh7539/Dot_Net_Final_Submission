@@ -21,7 +21,7 @@ How to use this repository
 ### Clone this repository in your PC
 - Use the give following command in [Git Bash](git-scm.com)
 
-      $ git clone https://github.com/Sneh7539/CSharp_Projects.git
+      $ git clone https://github.com/Sneh7539/Dot_Net_Final_Submission.git
       
 Targeted people
 ---------
