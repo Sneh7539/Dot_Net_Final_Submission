@@ -3,7 +3,7 @@
 ### Just for college purpose only :D
 
 
-Used programmin languaes and frameworks
+Used programming languaes and frameworks
 ---------
 ## ![.NET-4.8](https://img.shields.io/badge/.NET-v4.8-red) ![C#-8.0](https://img.shields.io/badge/C%23-v8.0-green)
 
